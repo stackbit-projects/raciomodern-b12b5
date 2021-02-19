@@ -13,7 +13,7 @@ sections:
       - label: Pogledaj ponudu
         url: /pricing
         style: primary
-      - label: Learn More
+      - label: Kontaktiraj nas
         url: /features
         style: secondary
     image: images/cropped-bicycle_head.jpg
