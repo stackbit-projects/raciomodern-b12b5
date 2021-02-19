@@ -68,7 +68,7 @@ params:
     has_tertiary_nav: true
     tertiary_nav_title: Pravo
     tertiary_nav_links:
-      - label: Uslovi
+      - label: Uslovi korišćenja
         url: /terms-conditions
         style: link
       - label: Privacy Policy
