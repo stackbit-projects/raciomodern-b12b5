@@ -22,7 +22,7 @@ params:
       - label: Autori
         url: /blog
         style: link
-      - label: Pricing
+      - label: Pretplata
         url: /pricing
         style: link
       - label: Style Guide
