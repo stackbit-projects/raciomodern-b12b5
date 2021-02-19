@@ -70,8 +70,8 @@ sections:
   - type: features_section
     features:
       - title: >-
-          “RACIO, stalno zaposleni i spoljni saradnici imaju dovoljno iskustva i
-          neophodnog obrazovanja za ovaj posao.”
+          “RACIO, stalno zaposleni i spoljni saradnici, imaju dovoljno iskustva
+          i neophodnog obrazovanja za ovaj posao.”
         subtitle: 'Ime Prezime, Dr. Neke Oblasti u Instituciji'
         image: images/brandon-guidelines.png
         image_alt: Brandon Guidelines
