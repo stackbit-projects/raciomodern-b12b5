@@ -4,9 +4,11 @@ sections:
   - type: hero_section
     title: RACIO
     subtitle: Izdavačka kuća
-    content: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-      ligula, cursus id molestie vel.
+    content: >+
+      Naš motiv je da vam učinimo dostupnim knjige koje ćete voleti, koje će
+      proširivati vaša znanja, koje će vam pomagati, knjige sa kojim ćete se
+      družiti i koje ćete rado poklanjati.
+
     actions:
       - label: Try Free
         url: /pricing
