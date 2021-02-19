@@ -151,7 +151,7 @@ sections:
     background_color: none
   - type: grid_section
     title: Utisci Čitalaca
-    subtitle: Ovo su rekli o našim kjigama
+    subtitle: Ovo su rekli o našim knjigama
     grid_items:
       - content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
