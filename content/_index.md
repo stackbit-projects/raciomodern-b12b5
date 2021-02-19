@@ -200,10 +200,9 @@ sections:
     background_color: secondary
   - type: cta_section
     title: Saznaj više o celokupnoj ponudi!
-    content: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-      ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-      fringilla, fringilla.
+    content: >
+      Mesto za najavu neke provmocije tipa popusti na više naručenih knjiga i
+      slično.
     actions:
       - label: Learn More
         url: /features
