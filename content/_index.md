@@ -80,7 +80,7 @@ sections:
     feature_padding_vert: small
     background_color: primary
   - type: grid_section
-    title: Najnovije k
+    title: Izdvajamo iz p
     subtitle: Grid Section Example
     grid_items:
       - title: Section Item 1
