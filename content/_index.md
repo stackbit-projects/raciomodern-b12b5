@@ -26,7 +26,9 @@ sections:
     background_color: primary
   - type: features_section
     title: Sve naslove biramo sa velikom pažnjom
-    subtitle: Features Section Example
+    subtitle: >-
+      Otkrijte prestižne autore u svojim oblastima, i njihove knjige koje su
+      komunikativne sa čitaocima.
     features:
       - title: The Big Title For the Feature
         subtitle: 'In fermentum odio et tortor laoreet, sed interdum augue ornare. '
