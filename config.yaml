@@ -71,7 +71,7 @@ params:
       - label: Uslovi korišćenja
         url: /terms-conditions
         style: link
-      - label: Privacy Policy
+      - label: Politika Privatnosti
         url: /privacy-policy
         style: link
     has_social: true
