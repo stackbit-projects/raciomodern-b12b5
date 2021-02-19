@@ -83,7 +83,7 @@ sections:
     title: Izdvajamo iz ponude
     subtitle: Popularne knjige u 2021
     grid_items:
-      - title: Naslov Kjige 1
+      - title: Naslov Knjige 1
         title_align: left
         content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
