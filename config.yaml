@@ -34,9 +34,9 @@ params:
         url: /contact
         style: link
     has_anncmnt: true
-    anncmnt_content: >-
-      Curabitur ac tellus mattis, tempor ipsum eu, eleifend sapien. **[Learn
-      More](/pricing/)**
+    anncmnt_content: >
+      Ovde ide neki vanredni info, npr o dostavi... [**Saznaj Više
+      Primer**](/pricing/)
     anncmnt_align: left
     anncmnt_is_home_only: true
     anncmnt_has_close: true
