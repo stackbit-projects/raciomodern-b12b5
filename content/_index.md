@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: RACIO
-    subtitle: Izdavač
+    subtitle: Izdavačka kuća
     content: >-
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
       ligula, cursus id molestie vel.
