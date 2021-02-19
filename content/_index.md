@@ -69,9 +69,7 @@ sections:
     background_color: secondary
   - type: features_section
     features:
-      - title: >-
-          “Stackbit is fast! Themes are always up to date. It’s easy to use
-          across the organization, and collaboration is easy.”
+      - title: “RACIO pomaže ljudima da brže dođu potrebnih infor”
         subtitle: 'Ime Prezime, Dr. Neke Oblasti u Instituciji'
         image: images/brandon-guidelines.png
         image_alt: Brandon Guidelines
