@@ -81,7 +81,7 @@ sections:
     background_color: primary
   - type: grid_section
     title: Izdvajamo iz ponude
-    subtitle: Kjige koje su zasenile
+    subtitle: Popularne knjihe u 2021
     grid_items:
       - title: Section Item 1
         title_align: left
