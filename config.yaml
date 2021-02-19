@@ -59,7 +59,7 @@ params:
       - label: Novosti
         url: /blog/category/news
         style: link
-      - label: General
+      - label: Objave
         url: /blog/category/general
         style: link
       - label: Tutorials
