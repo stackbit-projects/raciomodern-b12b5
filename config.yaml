@@ -13,7 +13,7 @@ params:
     logo_alt: RACIO
     has_primary_nav: true
     primary_nav_links:
-      - label: Features
+      - label: Ponuda
         url: /features
         style: link
       - label: Pricing
