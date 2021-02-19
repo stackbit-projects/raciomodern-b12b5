@@ -10,7 +10,7 @@ params:
   header:
     title: DIY
     logo: images/cropped-Net-Logo_w.jpg
-    logo_alt: DIY logo
+    logo_alt: RACIO
     has_primary_nav: true
     primary_nav_links:
       - label: Features
