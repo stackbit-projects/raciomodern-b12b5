@@ -72,7 +72,7 @@ sections:
       - title: >-
           “Stackbit is fast! Themes are always up to date. It’s easy to use
           across the organization, and collaboration is easy.”
-        subtitle: 'Ime Prezime, Dr. Neke Oblasti u Kompaniji'
+        subtitle: 'Ime Prezime, Dr. Neke Oblasti u Instituciji'
         image: images/brandon-guidelines.png
         image_alt: Brandon Guidelines
         media_position: right
