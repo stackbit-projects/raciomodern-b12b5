@@ -19,7 +19,7 @@ params:
       - label: Pricing
         url: /pricing
         style: link
-      - label: About
+      - label: O Nama
         url: /about
         style: link
       - label: Blog
