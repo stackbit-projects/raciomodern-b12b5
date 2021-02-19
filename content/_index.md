@@ -24,61 +24,6 @@ sections:
     padding_top: large
     padding_bottom: large
     background_color: primary
-  - type: features_section
-    title: Sve naslove biramo sa velikom pažnjom
-    subtitle: >-
-      Otkrijte prestižne autore u svojim oblastima, i njihove knjige koje su
-      komunikativne sa čitaocima
-    features:
-      - title: The Big Title For the Feature
-        subtitle: 'In fermentum odio et tortor laoreet, sed interdum augue ornare. '
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
-        actions:
-          - label: Saznaj više
-            url: /style-guide
-            style: primary
-            has_icon: true
-            icon: arrow-right
-            icon_position: right
-        image: images/classic/feature-1.png
-        image_alt: Feature 1 placeholder image
-        media_position: right
-        media_width: fifty
-      - title: The Big Title For the Feature
-        subtitle: 'Sed sed commodo turpis, eget rutrum dui.'
-        content: >-
-          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
-          diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
-          euismod lacinia.
-        actions:
-          - label: Learn More
-            url: /style-guide
-            style: primary
-            has_icon: true
-            icon: arrow-right
-            icon_position: right
-        image: images/classic/feature-3.png
-        image_alt: Feature 3 placeholder image
-        media_position: right
-        media_width: fifty
-    feature_padding_vert: large
-    align: center
-    background_color: secondary
-  - type: features_section
-    features:
-      - title: >-
-          “RACIO, stalno zaposleni i spoljni saradnici, imaju dovoljno iskustva
-          i neophodnog obrazovanja za ovaj posao.”
-        subtitle: 'Ime Prezime, Dr. Neke Oblasti u Instituciji'
-        image: images/brandon-guidelines.png
-        image_alt: Brandon Guidelines
-        media_position: right
-        media_width: thirty-three
-    feature_padding_vert: small
-    background_color: primary
   - type: grid_section
     title: Izdvajamo iz ponude
     subtitle: Popularne knjige u 2021
@@ -149,6 +94,61 @@ sections:
     enable_cards: true
     align: center
     background_color: none
+  - type: features_section
+    title: Sve naslove biramo sa velikom pažnjom
+    subtitle: >-
+      Otkrijte prestižne autore u svojim oblastima, i njihove knjige koje su
+      komunikativne sa čitaocima
+    features:
+      - title: The Big Title For the Feature
+        subtitle: 'In fermentum odio et tortor laoreet, sed interdum augue ornare. '
+        content: >-
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
+          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
+          fringilla, fringilla.
+        actions:
+          - label: Saznaj više
+            url: /style-guide
+            style: primary
+            has_icon: true
+            icon: arrow-right
+            icon_position: right
+        image: images/classic/feature-1.png
+        image_alt: Feature 1 placeholder image
+        media_position: right
+        media_width: fifty
+      - title: The Big Title For the Feature
+        subtitle: 'Sed sed commodo turpis, eget rutrum dui.'
+        content: >-
+          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
+          diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
+          euismod lacinia.
+        actions:
+          - label: Learn More
+            url: /style-guide
+            style: primary
+            has_icon: true
+            icon: arrow-right
+            icon_position: right
+        image: images/classic/feature-3.png
+        image_alt: Feature 3 placeholder image
+        media_position: right
+        media_width: fifty
+    feature_padding_vert: large
+    align: center
+    background_color: secondary
+  - type: features_section
+    features:
+      - title: >-
+          “RACIO, stalno zaposleni i spoljni saradnici, imaju dovoljno iskustva
+          i neophodnog obrazovanja za ovaj posao.”
+        subtitle: 'Ime Prezime, Dr. Neke Oblasti u Instituciji'
+        image: images/brandon-guidelines.png
+        image_alt: Brandon Guidelines
+        media_position: right
+        media_width: thirty-three
+    feature_padding_vert: small
+    background_color: primary
   - type: grid_section
     title: Utisci Čitalaca
     subtitle: Ovo su rekli o našim knjigama
