@@ -10,7 +10,7 @@ sections:
       družiti i koje ćete rado poklanjati.
 
     actions:
-      - label: Try Free
+      - label: pogle
         url: /pricing
         style: primary
       - label: Learn More
