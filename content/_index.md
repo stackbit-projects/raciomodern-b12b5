@@ -81,7 +81,7 @@ sections:
     background_color: primary
   - type: grid_section
     title: Izdvajamo iz ponude
-    subtitle: Grid Section Example
+    subtitle: Kjige
     grid_items:
       - title: Section Item 1
         title_align: left
